@@ -1,0 +1,71 @@
+||------------------------------------------------------------||
+
+..:: GERADOR E VERIFICADOR DE CODIGO DE HAMMING ::..
+
+Digite o que voce deseja fazer:
+(1) Enviar um grupo de bits
+(2) Verificar um grupo de bits recebido
+(3) Exit
+Opcao: 1
+
+
+# Caso 1:
+Digite a quantidade de bits do grupo original: 7
+
+Digite o numero 1: 1
+
+Digite o numero 2: 1
+
+Digite o numero 3: 0
+
+Digite o numero 4: 0
+
+Digite o numero 5: 1
+
+Digite o numero 6: 0
+
+Digite o numero 7: 1
+
+Dados Originais: 1100101
+Dados que serao enviados: 00111000101
+
+||------------------------------------------------------------||
+
+..:: GERADOR E VERIFICADOR DE CODIGO DE HAMMING ::..
+
+Digite o que voce deseja fazer:
+(1) Enviar um grupo de bits
+(2) Verificar um grupo de bits recebido
+(3) Exit
+Opcao: 2
+
+
+# Caso 2:
+Digite a quantidade de bits total: 11
+
+Digite o numero 1: 0
+
+Digite o numero 2: 0
+
+Digite o numero 3: 1
+
+Digite o numero 4: 1
+
+Digite o numero 5: 1
+
+Digite o numero 6: 0
+
+Digite o numero 7: 0
+
+Digite o numero 8: 0
+
+Digite o numero 9: 1
+
+Digite o numero 10: 0
+
+Digite o numero 11: 1
+
+
+Grupo de bits finais com o bit corrigido: 1100101
+
+||------------------------------------------------------------||

@@ -1,0 +1,6 @@
+
+Linguagem: C
+Grupo:
+	Iury Alcantra
+	Lucas Oliveira
+	Mateus Ramos
